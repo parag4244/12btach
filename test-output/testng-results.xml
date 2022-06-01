@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="4" passed="4" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2022-05-31T16:40:08 IST" name="Suite" finished-at="2022-05-31T16:40:38 IST" duration-ms="30152">
+    <groups>
+    </groups>
+    <test started-at="2022-05-31T16:40:08 IST" name="Test" finished-at="2022-05-31T16:40:38 IST" duration-ms="30152">
+      <class name="com.SauceDemo.TestClasses.TCO3AddCart">
+        <test-method is-config="true" signature="baseclass()[pri:0, instance:com.SauceDemo.TestClasses.TCO3AddCart@1a18644]" started-at="2022-05-31T16:40:17 IST" name="baseclass" finished-at="2022-05-31T16:40:25 IST" duration-ms="7831" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- baseclass -->
+        <test-method signature="AddCartfunctionality()[pri:1, instance:com.SauceDemo.TestClasses.TCO3AddCart@1a18644]" started-at="2022-05-31T16:40:25 IST" name="AddCartfunctionality" finished-at="2022-05-31T16:40:26 IST" duration-ms="801" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- AddCartfunctionality -->
+        <test-method is-config="true" signature="teardown()[pri:0, instance:com.SauceDemo.TestClasses.TCO3AddCart@1a18644]" started-at="2022-05-31T16:40:26 IST" name="teardown" finished-at="2022-05-31T16:40:26 IST" duration-ms="238" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+      </class> <!-- com.SauceDemo.TestClasses.TCO3AddCart -->
+      <class name="com.SauceDemo.TestClasses.TC1LoginFunctionality">
+        <test-method is-config="true" signature="baseclass()[pri:0, instance:com.SauceDemo.TestClasses.TC1LoginFunctionality@7e7be63f]" started-at="2022-05-31T16:40:32 IST" name="baseclass" finished-at="2022-05-31T16:40:38 IST" duration-ms="5858" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- baseclass -->
+        <test-method signature="loginFunctionalitytest()[pri:4, instance:com.SauceDemo.TestClasses.TC1LoginFunctionality@7e7be63f]" started-at="2022-05-31T16:40:38 IST" name="loginFunctionalitytest" finished-at="2022-05-31T16:40:38 IST" duration-ms="572" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginFunctionalitytest -->
+        <test-method is-config="true" signature="teardown()[pri:0, instance:com.SauceDemo.TestClasses.TC1LoginFunctionality@7e7be63f]" started-at="2022-05-31T16:40:38 IST" name="teardown" finished-at="2022-05-31T16:40:38 IST" duration-ms="186" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+      </class> <!-- com.SauceDemo.TestClasses.TC1LoginFunctionality -->
+      <class name="com.SauceDemo.TestClasses.TC05FilterFunctionality">
+        <test-method is-config="true" signature="baseclass()[pri:0, instance:com.SauceDemo.TestClasses.TC05FilterFunctionality@3fb1549b]" started-at="2022-05-31T16:40:08 IST" name="baseclass" finished-at="2022-05-31T16:40:14 IST" duration-ms="5530" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- baseclass -->
+        <test-method signature="filterFunctionality()[pri:2, instance:com.SauceDemo.TestClasses.TC05FilterFunctionality@3fb1549b]" started-at="2022-05-31T16:40:14 IST" name="filterFunctionality" finished-at="2022-05-31T16:40:17 IST" duration-ms="2787" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- filterFunctionality -->
+        <test-method is-config="true" signature="teardown()[pri:0, instance:com.SauceDemo.TestClasses.TC05FilterFunctionality@3fb1549b]" started-at="2022-05-31T16:40:17 IST" name="teardown" finished-at="2022-05-31T16:40:17 IST" duration-ms="327" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+      </class> <!-- com.SauceDemo.TestClasses.TC05FilterFunctionality -->
+      <class name="com.SauceDemo.TestClasses.TC02LogOutFunctionality">
+        <test-method is-config="true" signature="baseclass()[pri:0, instance:com.SauceDemo.TestClasses.TC02LogOutFunctionality@5acf93bb]" started-at="2022-05-31T16:40:26 IST" name="baseclass" finished-at="2022-05-31T16:40:30 IST" duration-ms="4604" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- baseclass -->
+        <test-method signature="logout()[pri:3, instance:com.SauceDemo.TestClasses.TC02LogOutFunctionality@5acf93bb]" started-at="2022-05-31T16:40:30 IST" name="logout" finished-at="2022-05-31T16:40:32 IST" duration-ms="1116" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- logout -->
+        <test-method is-config="true" signature="teardown()[pri:0, instance:com.SauceDemo.TestClasses.TC02LogOutFunctionality@5acf93bb]" started-at="2022-05-31T16:40:32 IST" name="teardown" finished-at="2022-05-31T16:40:32 IST" duration-ms="192" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+      </class> <!-- com.SauceDemo.TestClasses.TC02LogOutFunctionality -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
